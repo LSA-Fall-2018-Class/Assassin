@@ -51,8 +51,8 @@ const ON_BREAK_LABEL = "On Break: <br>";
 
 // Major global vars
 //var players = [[123,"Jon",1,0,0,234],[234,"Joey",1,0,0,345],[345,"Papi",1,0,0,456],[456,"Manny",1,0,0,123]];
-var players = [[123,"Jon",0,0,0,0],[234,"Joey",0,0,0,0],[345,"Papi",0,0,0,0],[456,"Manny",0,0,0,0],[567,"Hangy",0,0,0,0],[678,"Sticky",0,0,0,0],[999,"Gretzky",0,0,0,0]];
-var admins = [[111,"Japhet"],[222,"Viv"]];
+var players = [[234,"Joey",0,0,0,0],[345,"Papi",0,0,0,0],[456,"Manny",0,0,0,0],[567,"Sale",0,0,0,0],[678,"Mookie",0,0,0,0],[999,"JD",0,0,0,0]];
+var admins = [[123,"Jon"],[222,"Benny"]];
 var events = new Array; // log all events
 
 var gameMode = MODE_ADMIN; // start in admin mode
